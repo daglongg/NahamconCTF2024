@@ -1,4 +1,4 @@
-![ảnh](https://github.com/LDV-SpaceK/NahamconCTF2024/assets/151914246/cdc5968d-0946-4c46-b0e2-d5d15255a2e5)![ảnh](https://github.com/LDV-SpaceK/NahamconCTF2024/assets/151914246/3030620f-c8c4-4848-8321-e978ee2f8f7e)
+![ảnh](https://github.com/LDV-SpaceK/NahamconCTF2024/assets/151914246/3030620f-c8c4-4848-8321-e978ee2f8f7e)
 
 * Sau khi giải nén file 7z mình được một file
 
